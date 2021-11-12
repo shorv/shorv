@@ -17,5 +17,5 @@ from programming Minecraft plugins, but now I'm also trying to develop in other 
 📩 **Feel free to contact**:</br> 
 [![Get in touch via Discord](https://badges.krynn.dev/discord/?id=361219565486604298)](https://github.com/shorv)</br>
 [![Get in touch via Mail](https://badges.krynn.dev/email/?address=kontakt.shorv@gmail.com)](https://github.com/shorv)</br></br>
-[![shorv GitHub stats](https://github-readme-stats.vercel.app/api?username=shorv&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/shorv)
+[![shorv GitHub stats](https://github-readme-stats.vercel.app/api?username=shorv&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true)](https://github.com/shorv)
 
