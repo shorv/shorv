@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Jakub Rychlik also known as shorv, a random teenager who loves clicking on the keyboard, but also</br>
-an IT freshman at Lodz University Of Technology.I started my coding adventure</br>
+an IT freshman at Lodz University Of Technology. I started my coding adventure</br>
 from programming Minecraft plugins, but now I'm also trying to develop in other technologies.</br>
 
 📚 **Languages and tools:**  
