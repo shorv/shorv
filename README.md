@@ -14,7 +14,6 @@ from programming Minecraft plugins, but now I'm also trying to develop in other 
 
 🧠 **Currently learning:**</br>
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 
 💻 **Editors/IDEs:**</br>
